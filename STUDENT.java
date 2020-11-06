@@ -31,6 +31,7 @@ public class HW_1 {
 
 	public static void main(String[] args) {
 		HW_1 s = new HW_1(123213,"ben");
+		HW_1 s2 = new HW_1(123213,"ben");
 		System.out.print(s+"\n");
 		s.ChangeName("alex");
 		System.out.print(s);
