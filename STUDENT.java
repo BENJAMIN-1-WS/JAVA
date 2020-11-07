@@ -13,7 +13,7 @@ public class HW_1 {
 		this.idd = id;
 		name = _name;	
 	}
-
+//ghsusiddksdmksdk
 	public HW_1 (int _id) {
 		this.idd = _id;
 		name = "temp";
